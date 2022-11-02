@@ -1,0 +1,10 @@
+[
+{"id":"a1_nmc","reference":"A1","company":"nmc","material":"ldps","height":"25","width":"25","productType":"Cornice","competitors":"[z1250_mardom, fd20s_nmc, abcd_orac]"},
+{"id":"wl10_nmc","reference":"WL10","company":"nmc","material":"hdps","height":"25","width":"14.5","productType":"Chair rail","competitors":"[z1360_nmc, fd20s_nmc]"},
+{"id":"z1360_nmc","reference":"Z1360","company":"nmc","material":"pu","height":"60","width":"15","productType":"Chair rail","competitors":"[wl10_nmc]"},
+{"id":"fd20s_nmc","reference":"FD20S","company":"nmc","material":"hdps","height":"200","width":"18","productType":"Skirting","competitors":"[a1_nmc, wl10_nmc]"},
+{"id":"canele-l_nmc","reference":"CANEL� L","company":"nmc","material":"pu","height":"300","width":"14.5","productType":"Wall Panel","competitors":"[canele-s_nmc]"}
+,
+{"id":"canele-s_nmc","reference":"CANEL� S","company":"nmc","material":"pu","height":"300","width":"14.5","productType":"Wall Panel","competitors":"[canele-l_nmc]"}
+
+]
